@@ -1,12 +1,8 @@
-//DNDLightsystem.h
-
 #ifndef DNDLIGHTSYSTEM_H
 #define DNDLIGHTSYSTEM_H
 
 #include <FastLED.h>
 
-#define MAX_LEDS 300
-#define TERRAIN_INDICATOR_PIN 23
-#define DEFAULT_COLOR CRGB::Black
-
+// Removed duplicate MAX_LEDS and TERRAIN_INDICATOR_PIN definitions
+// Removed duplicate DEFAULT_COLOR definition
 #endif
